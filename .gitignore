@@ -1,0 +1,17 @@
+*.exe
+*.in
+*.o
+*.out
+*.ppt
+*.pdf
+*.doc
+*.txt
+others
+private
+.vs
+data
+JJZN/GP
+duipai_room
+JJZN/tedukuri
+tempCodeRunnerFile.cpp
+std.cpp
